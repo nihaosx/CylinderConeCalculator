@@ -14,10 +14,4 @@
 
 ### Requirements / 环境要求
 - C++ compiler (g++, Visual Studio, etc.)
-
-### Compile with g++ / 用 g++ 编译
-```bash
-g++ main.cpp -o cylinder_calc.exe -lm
-Windows: cylinder_calc.exe
-
-Linux/macOS: ./cylinder_calc
+<img width="1709" height="909" alt="图片" src="https://github.com/user-attachments/assets/982e84b2-93ea-455d-ab62-a6c45f6e6e77" />
