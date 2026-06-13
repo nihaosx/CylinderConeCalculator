@@ -14,6 +14,5 @@
 
 ### Requirements / 环境要求
 - C++ compiler (g++, Visual Studio, etc.)
-<img width="1709" height="909" alt="图片" src="https://github.com/user-attachments/assets/982e84b2-93ea-455d-ab62-a6c45f6e6e77" />
 <img width="3264" height="1739" alt="图片" src="https://github.com/user-attachments/assets/e360397e-15eb-4c1f-9a81-47aae2222f84" />
 所有人都可以放心使用它/Everyone can use it with confidence
