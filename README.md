@@ -10,3 +10,4 @@
 
 ## 下载
 直接下载 Releases 里的 .exe 就能用
+![Uploading 图片.png…]()
