@@ -10,4 +10,4 @@
 
 ## 下载
 直接下载 Releases 里的 .exe 就能用
-![Uploading 图片.png…]()
+<img width="759" height="583" alt="屏幕截图 2026-08-02 132105" src="https://github.com/user-attachments/assets/4b0ec476-b6d9-4392-a5d5-182d572a35d4" />
