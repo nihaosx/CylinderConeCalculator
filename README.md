@@ -31,7 +31,7 @@ A simple cylinder & cone calculator with GUI, no command line needed.
 
 ## 界面预览 / Screenshot
 
-&lt;img width="759" height="583" alt="屏幕截图 2026-08-02 132105" src="https://github.com/user-attachments/assets/4b0ec476-b6d9-4392-a5d5-182d572a35d4" /&gt;
+<img width="759" height="583" alt="屏幕截图 2026-08-02 132105" src="https://github.com/user-attachments/assets/6c4a4aa8-2e6c-492f-bfaa-4b7d10ae4b6c" />
 
 ## 使用说明 / How to Use
 
