@@ -77,9 +77,9 @@ A cylinder & cone calculator designed for **math education**, featuring **real-t
 
 **无需安装，下载即用！**
 
-👉 [下载最新版 v3.0](https://github.com/nihaosx/CylinderConeCalculator/releases/tag/v3.0)
+👉 [下载最新版 v3.1](https://github.com/nihaosx/CylinderConeCalculator/releases/tag/v3.1)
 
-下载 `cylinder_cone_edu_v3.exe`，**双击运行**即可。
+下载 `cylinder_cone_v31_fixed.exe`，**双击运行**即可。
 
 > 💡 静态链接编译，无需额外 DLL 文件
 > 💡 Windows 7 / 10 / 11 全支持
@@ -121,7 +121,8 @@ A cylinder & cone calculator designed for **math education**, featuring **real-t
 
 | 版本 | 日期 | 更新内容 |
 |------|------|---------|
-| **v3.0** | 2026-08 | 🎓 **教育版**：图形绘制 + 分步计算 + 作业保存 |
+|**3.1**|2026-08|画图更详细，解决问题｜
+| v3.0| 2026-08 | 🎓 **教育版**：图形绘制 + 分步计算 + 作业保存 |
 | v2.3 | 2026-07 | 🖥️ 图形界面版（Win32 API） |
 | v2.2 | 2026-07 | 🔄 循环计算 + 结果保存 |
 | v2.1 | 2026-07 | 🔧 代码优化 + 多语言 |
@@ -142,8 +143,8 @@ g++ cylinder_cone_edu_v3.cpp -o cylinder_cone_edu_v3.exe -static-libgcc -static-
 
 | 文件 | 说明 |
 |------|------|
-| `cylinder_cone_edu_v3.cpp` | 教育版完整源代码 |
-| `cylinder_cone_edu_v3.exe` | Windows 可执行文件 |
+| `cylinder_cone_v31_fixed.cpp` | 教育版完整源代码 |
+| `cylinder_cone_v31_fixed.exe` | Windows 可执行文件 |
 | `result.txt` | 计算历史记录（自动生成） |
 | `homework.txt` | 作业文件：题目+过程+答案（自动生成） |
 
