@@ -104,6 +104,7 @@ A cylinder & cone calculator designed for **math education**, featuring **real-t
 ```bash
 g++ cylinder_cone_gui.cpp -o cylinder_cone_gui.exe -static-libgcc -static-libstdc++
 
+```
 ## 📄 文件说明 / Files
 
 | 文件 | 说明 |
