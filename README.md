@@ -120,7 +120,7 @@ g++ cylinder_cone_edu_v3.cpp -o cylinder_cone_edu_v3.exe \
 
 ## 📜 许可证 / License
 
-MIT License - 所有人都可以放心使用它 / Everyone can use it with confidence
+GPL 3.0 License - 个人可以免费使用，但基于此项目的相关作品必须开源
 
 ---
 
