@@ -1,4 +1,4 @@
-readme = r'''# 🎓 圆柱圆锥计算器 — 数学课堂演示工具
+🎓 圆柱圆锥计算器 — 数学课堂演示工具
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-green.svg)
