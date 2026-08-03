@@ -35,43 +35,12 @@ A cylinder & cone calculator designed for **math education**, featuring **real-t
 ---
 
 ## 🖥️ 界面预览 / Screenshot
+<img width="3839" height="2076" alt="图片" src="https://github.com/user-attachments/assets/16cf0b6b-337c-4dcd-89ab-9331902085d4" />
+
+
 
 计算后，**左边是解题过程，右边是实时图形**：
 
-```
-┌─────────────────────────────────────────────────────┐
-│  圆柱圆锥计算器 v3.0 - 教育版                        │
-├─────────────────────────────────────────────────────┤
-│  π: (•)标准π (3.14...)   输入: (•)半径r ( )直径d   │
-│  数值:[ 3 ]  高:[ 5 ]          ☑ 分步模式           │
-│                                                     │
-│  [ 计算 ] [保存结果] [保存作业] [清除]              │
-├──────────────────────┬──────────────────────────────┤
-│                      │                              │
-│  已知: r = 3, h = 5  │        ┌─────────┐           │
-│                      │       /           \_h=5     │
-│  Step 1: 求底面积    │      │     圆柱      │        │
-│    S底 = π×r²        │      │             │ r=3    │
-│    = 3.14×3²         │       \           /        │
-│    = 28.27           │        └─────────┘          │
-│                      │                              │
-│  Step 2: 求圆柱体积  │           圆锥              │
-│    V柱 = S底×h       │            /\               │
-│    = 28.27×5         │           /  \              │
-│    = 141.37          │          / h=5\             │
-│                      │         /______\             │
-│  Step 3: 求圆锥体积  │                              │
-│    V锥 = V柱÷3       │                              │
-│    = 141.37÷3        │                              │
-│    = 47.12           │                              │
-│                      │                              │
-│  答: 圆柱体积 141.37 │                              │
-│      圆锥体积 47.12  │                              │
-│                      │                              │
-└──────────────────────┴──────────────────────────────┘
-```
-
----
 
 ## 📥 下载使用 / Download
 
@@ -121,7 +90,7 @@ A cylinder & cone calculator designed for **math education**, featuring **real-t
 
 | 版本 | 日期 | 更新内容 |
 |------|------|---------|
-|**3.1**|2026-08|画图更详细，解决问题｜
+| **v3.1**| 2026-08| 🎨 图形优化 + 输入校验 + 投影适配 |
 | v3.0| 2026-08 | 🎓 **教育版**：图形绘制 + 分步计算 + 作业保存 |
 | v2.3 | 2026-07 | 🖥️ 图形界面版（Win32 API） |
 | v2.2 | 2026-07 | 🔄 循环计算 + 结果保存 |
@@ -133,10 +102,10 @@ A cylinder & cone calculator designed for **math education**, featuring **real-t
 
 ## 💻 编译说明 / Build
 
-```bash
-g++ cylinder_cone_edu_v3.cpp -o cylinder_cone_edu_v3.exe -static-libgcc -static-libstdc++ -lgdi32 -luser32
-```
-
+g++ cylinder_cone_edu_v3.cpp -o cylinder_cone_edu_v3.exe \
+  -static-libgcc -static-libstdc++ \
+  -lgdi32 -luser32 -mwindows \
+  -DWINVER=0x0601 -D_WIN32_WINNT=0x0601
 ---
 
 ## 📄 文件说明 / Files
