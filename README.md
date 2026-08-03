@@ -102,8 +102,10 @@ A cylinder & cone calculator designed for **math education**, featuring **real-t
 
 ## 💻 编译说明 / Build
 ```bash
-g++ cylinder_cone_gui.cpp -o cylinder_cone_gui.exe -static-libgcc -static-libstdc++
-
+g++ cylinder_cone_edu_v3.cpp -o cylinder_cone_edu_v3.exe \
+  -static-libgcc -static-libstdc++ \
+  -lgdi32 -luser32 -mwindows \
+  -DWINVER=0x0601 -D_WIN32_WINNT=0x0601
 ```
 ## 📄 文件说明 / Files
 
