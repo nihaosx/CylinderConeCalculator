@@ -101,19 +101,12 @@ A cylinder & cone calculator designed for **math education**, featuring **real-t
 
 ---
 
-## 💻 编译说明 / Build
-```bash
-g++ cylinder_cone_edu_v3.cpp -o cylinder_cone_edu_v3.exe \
-  -static-libgcc -static-libstdc++ \
-  -lgdi32 -luser32 -mwindows \
-  -DWINVER=0x0601 -D_WIN32_WINNT=0x0601
-```
 ## 📄 文件说明 / Files
 
 | 文件 | 说明 |
 |------|------|
-| `cylinder_cone_v31_fixed.cpp` | 教育版完整源代码 |
-| `cylinder_cone_v31_fixed.exe` | Windows 可执行文件 |
+| `cylinder_cone_v4.0_fixed.cpp` | 教育版完整源代码 |
+| `cylinder_cone_v4.0_fixed.exe` | Windows 可执行文件 |
 | `result.txt` | 计算历史记录（自动生成） |
 | `homework.txt` | 作业文件：题目+过程+答案（自动生成） |
 
