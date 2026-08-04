@@ -46,7 +46,7 @@ A cylinder & cone calculator designed for **math education**, featuring **real-t
 
 **无需安装，下载即用！**
 
-👉 [下载最新版 v3.1](https://github.com/nihaosx/CylinderConeCalculator/releases/tag/v3.1)
+👉 [下载最新版 v4.0](https://github.com/nihaosx/CylinderConeCalculator/releases/tag/v3.1)
 
 下载 `cylinder_cone_v31_fixed.exe`，**双击运行**即可。
 
