@@ -46,9 +46,9 @@ A cylinder & cone calculator designed for **math education**, featuring **real-t
 
 **无需安装，下载即用！**
 
-👉 [下载最新版 v4.0](https://github.com/nihaosx/CylinderConeCalculator/releases/tag/v3.1)
+👉 [下载最新版 v4.0]([https://github.com/nihaosx/CylinderConeCalculator/releases/tag/v3.1](https://github.com/nihaosx/CylinderConeCalculator/releases/tag/v40))
 
-下载 `cylinder_cone_v31_fixed.exe`，**双击运行**即可。
+下载 `cylinder_cone_v4.0_fixed.exe`，**双击运行**即可。
 
 > 💡 静态链接编译，无需额外 DLL 文件
 > 💡 Windows 7 / 10 / 11 全支持
@@ -90,7 +90,8 @@ A cylinder & cone calculator designed for **math education**, featuring **real-t
 
 | 版本 | 日期 | 更新内容 |
 |------|------|---------|
-| **v3.1**| 2026-08| 🎨 图形优化 + 输入校验 + 投影适配 |
+|**v4.0| 2026-08|修复数十个bug|
+| v3.1| 2026-08| 🎨 图形优化 + 输入校验 + 投影适配 |
 | v3.0| 2026-08 | 🎓 **教育版**：图形绘制 + 分步计算 + 作业保存 |
 | v2.3 | 2026-07 | 🖥️ 图形界面版（Win32 API） |
 | v2.2 | 2026-07 | 🔄 循环计算 + 结果保存 |
