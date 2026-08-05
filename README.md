@@ -32,21 +32,22 @@ A cylinder & cone calculator designed for **math education**, featuring **real-t
 | 🔄 **多种输入** | 半径 / 直径 / 周长 三种方式 | 无论题目给什么条件都能算 |
 | 🔢 **自定义 π** | 标准 π 或手动输入 | 满足不同精度要求 |
 
+
 ---
 
 ## 🖥️ 界面预览 / Screenshot
-<img width="3839" height="2076" alt="图片" src="https://github.com/user-attachments/assets/16cf0b6b-337c-4dcd-89ab-9331902085d4" />
+
+<img width="1848" height="803" alt="图片" src="https://github.com/user-attachments/assets/76f227d0-fa1f-423f-91d1-161b6df51478" />
 
 
-
-计算后，**左边是解题过程，右边是实时图形**：
+计算后，**左边是解题过程，右边是实时图形**：3D 预览
 
 
 ## 📥 下载使用 / Download
 
 **无需安装，下载即用！**
 
-👉 [下载最新版 v4.0]([https://github.com/nihaosx/CylinderConeCalculator/releases/tag/v3.1](https://github.com/nihaosx/CylinderConeCalculator/releases/tag/v40))
+👉 [下载最新版 v4.0]([[https://github.com/nihaosx/CylinderConeCalculator/releases/tag/v3.1](https://github.com/nihaosx/CylinderConeCalculator/releases/tag/v40)](https://github.com/nihaosx/CylinderConeCalculator/releases/tag/V4.2))
 
 下载 `cylinder_cone_v4.0_fixed.exe`，**双击运行**即可。
 
@@ -90,7 +91,8 @@ A cylinder & cone calculator designed for **math education**, featuring **real-t
 
 | 版本 | 日期 | 更新内容 |
 |------|------|---------|
-|**v4.0**| 2026-08|修复数十个bug|
+|**V4.2**|2026-08|新增 OpenGL 3D 预览 + 全面稳定性优化|
+|v4.0| 2026-08|修复数十个bug|
 | v3.1| 2026-08| 🎨 图形优化 + 输入校验 + 投影适配 |
 | v3.0| 2026-08 | 🎓 **教育版**：图形绘制 + 分步计算 + 作业保存 |
 | v2.3 | 2026-07 | 🖥️ 图形界面版（Win32 API） |
